@@ -59,7 +59,7 @@ html {
   width: 100%;
   height: 50rem;
   border-radius: 6.25rem;
-  padding: 60px;
+  padding: 3.75rem;
   object-fit: cover;
 }
 
@@ -83,7 +83,7 @@ html {
 
 .services-details h6 {
   color: #1b3863;
-  margin-top: 90px;
+  margin-top: 5.625rem;
   font-size: 1.7em;
   padding-bottom: 1.1rem;
 } 
