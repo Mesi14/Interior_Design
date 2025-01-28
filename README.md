@@ -1,6 +1,5 @@
 # Interior Design
 
-# Interior Design
 
 <img alt="version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 This is a webpage for an interior design company.
@@ -15,7 +14,10 @@ This is a webpage for an interior design company.
 
 ## Screenshot
 
-![screenshot]()
+<img src="./Assets/Images/header_screenshot.jpg" width="400" height="180">
+<img src="./Assets/Images/about_screenshot.jpg" width="400" height="180"> <br>
+<img src="./Assets/Images/services_screenshot.jpg" width="400" height="180">
+<img src="./Assets/Images/footer_screenshot.jpg" width="400" height="180">
 
 ## Live version
 
