@@ -8,10 +8,6 @@ html {
   border: none;
 }
 
-.container-fluid {
-  margin: 0;
-  padding: 0;
-}
 
 .main-header {
   background: url(/Assets/Images/design-interior.jpg);
@@ -59,7 +55,7 @@ html {
   width: 100%;
   height: 50rem;
   border-radius: 6.25rem;
-  padding: 3.75rem;
+  padding: 1.5rem 1rem;
   object-fit: cover;
 }
 
@@ -88,7 +84,11 @@ html {
   padding-bottom: 1.1rem;
 } 
 
-/************About*************/
+.container-fluid.about-us {
+  margin: 0;
+  padding: 0;
+}
+
 .about-us {
   background: url(/Assets/Images/fundalabout.jpg);
   background-position: center;
